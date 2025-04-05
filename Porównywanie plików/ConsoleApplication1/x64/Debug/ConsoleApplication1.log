@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\VisualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,26): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+D:\VisualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,26): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+D:\VisualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(21,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+D:\VisualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+D:\VisualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+D:\VisualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,27): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication1.vcxproj -> D:\VisualStudio\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
